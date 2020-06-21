@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/br.com.nomadweb.core/br.com.nomadweb.core.iml" filepath="$PROJECT_DIR$/br.com.nomadweb.core/br.com.nomadweb.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.nomadweb.test/br.com.nomadweb.test.iml" filepath="$PROJECT_DIR$/br.com.nomadweb.test/br.com.nomadweb.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/br.com.nomadweb.utils/br.com.nomadweb.utils.iml" filepath="$PROJECT_DIR$/br.com.nomadweb.utils/br.com.nomadweb.utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javamodular.iml" filepath="$PROJECT_DIR$/javamodular.iml" />
+    </modules>
+  </component>
+</project>
